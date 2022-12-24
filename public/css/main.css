@@ -1,5 +1,5 @@
 :root {
-    --primary-color: #7cdef2;
+    --primary-color:#f6d98b;
 }
 
 /* Header */
@@ -17,7 +17,7 @@
 .ti-trash:hover,
 .ti-receipt:hover,
 .ti-plus:hover {
-    background-color: red;
+    background-color: #f6d98b;
     color: #fff;
 }
 .ti-plus ,.ti-minus{
@@ -144,8 +144,8 @@
 
 .formbody {
     height: 500px;
-    background-color: #a0f1fa;
-    border-bottom: 2px dotted #9c9c9c;
+    background-color:  #f4e1b0;
+    border-bottom: 2px dotted  #f6d98b;
     padding: 0;
     overflow: auto;
 }
@@ -201,7 +201,7 @@
 
 /* PAY RIGHT */
 .input-info {
-    background-color: #b1c3d5;
+    background-color:  #f6d98b;
     height: 50%;
 }
 
